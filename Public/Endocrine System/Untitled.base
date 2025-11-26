@@ -1,0 +1,13 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder.contains("src/pages/Public")
+        - file.tags.contains("hormone")
+    order:
+      - file.name
+      - file.tags
+    sort: []
+  - type: table
+    name: View

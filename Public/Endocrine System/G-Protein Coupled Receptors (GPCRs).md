@@ -1,0 +1,2 @@
+- Literal definition: [[Receptors]] that work with [[G-proteins]]
+- 

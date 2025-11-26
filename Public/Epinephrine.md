@@ -1,0 +1,3 @@
+- Also known as **adrenaline**
+- Known for *fight or flight* - [[Sympathetic Nervous System]]
+- 
